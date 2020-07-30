@@ -1,4 +1,7 @@
 * Hi
+
 My name is Jesus Izurieta
+
+[[./img/logojr.png]]
 
 Developer and CS student.
