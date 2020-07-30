@@ -2,6 +2,6 @@
 
 My name is Jesus Izurieta
 
-https://github.com/izurietajr/izurietajr/raw/master/img/logojr.png
+[[https://github.com/izurietajr/izurietajr/raw/master/img/logojr.png]]
 
 Developer and CS student.
