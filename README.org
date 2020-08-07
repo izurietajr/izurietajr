@@ -6,6 +6,4 @@ My name is Jesus Izurieta
 
 Developer and CS student.
 
-#+begin_export html
-<img src="https://github-readme-stats.vercel.app/api?username=izurietajr&show_icons=true&hide_border=true">
-#+end_export
+@@html:<img src="https://github-readme-stats.vercel.app/api?username=izurietajr&show_icons=true&hide_border=true">@@
