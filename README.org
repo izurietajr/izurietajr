@@ -5,4 +5,5 @@ My name is Jesus Izurieta
 [[https://github.com/izurietajr/izurietajr/raw/master/img/logojr.png]]
 
 Developer and CS student.
-[[https://github-readme-stats.vercel.app/api?username=izurietajr&show_icons=true&hide_border=true]]
+
+<img src="https://github-readme-stats.vercel.app/api?username=izurietajr&show_icons=true&hide_border=true">
